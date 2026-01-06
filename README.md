@@ -11,20 +11,51 @@
 
 Show old homepage (chromes): brave://new-tab-page/
 
-![image](https://github.com/user-attachments/assets/454036d3-a101-4d9a-aac1-bf9b917aa1af)
+![Screenshot From 2026-01-06 03-15-40 (1)](https://github.com/user-attachments/assets/4d2919fc-69e5-4983-a76d-337016df2251)
 
-
-![image](https://github.com/user-attachments/assets/ce502c25-43a7-4969-8d7e-7baf8c3bd6b3)
-
-Update: Please make sure new tab page shows is set to home page.
-
+![Screenshot From 2026-01-06 03-23-38](https://github.com/user-attachments/assets/ed62dcbe-731b-435f-97b3-967d2bf37b8d)
 
 ## Data collection (Under Privacy and settings)
 
 ![image](https://github.com/user-attachments/assets/05f94aed-d9ae-4fef-b589-bd222f6103c0)
 
-## Windows registry
+## Brave Flags
+### Type this in the url bar: brave://flags/
 
+![image](https://github.com/user-attachments/assets/15763528-b20b-4ba1-aa3e-5fd0e99c1106)
+
+### Now this in the menu search each of the following in the flags bar and disable them:
+
+Flags list (Disable them):
+
+![image](https://github.com/user-attachments/assets/d39d10d2-5c3c-42c5-b6ac-90b4aafc3478)
+
+Updated 1/06/26
+- #brave-super-referral
+- #brave-rewards-new-rewards-ui
+- #brave-rewards-platform-creator-detection
+- #native-brave-wallet
+- #brave-wallet-zcash
+- #brave-wallet-bitcoin
+- #brave-wallet-cardano
+- #brave-news-peek
+- #brave-news-feed-update
+- #brave-rewards-gemini
+- #brave-ai-chat
+- #brave-ai-first
+- #brave-ai-chat-history
+- #brave-ai-host-specific-distillation
+- #brave-ai-chat-context-menu-rewrite-in-place
+- #brave-ai-chat-page-content-refine
+- #brave-ai-chat-allow-private-ips
+- #brave-ai-chat-open-leo-from-brave-search
+- #brave-ai-chat-web-content-association-default
+- #brave-ai-rewriter
+- #brave-omnibox-tab-switch-by-default
+- #brave-history-more-search-results
+- #brave-ntp-search-widget
+
+## Windows Only
 If you're using Windows, you can achieve even better results than the ones obtained by applying the section [Brave Flags](#brave-flags).
 
 If you're not using Brave on Windows, please skip this section and go to [Brave Flags](#brave-flags) instead.
@@ -54,43 +85,8 @@ Windows Registry Editor Version 5.00
 
 Now, if you open Brave, all bloatware will be gone.
 
-## Brave Flags
-### Type this in the url bar: brave://flags/
-
-![image](https://github.com/user-attachments/assets/15763528-b20b-4ba1-aa3e-5fd0e99c1106)
-
-### Now this in the menu search each of the following in the flags bar and disable them:
-
-Flags list (Disable them):
-
-![image](https://github.com/user-attachments/assets/d39d10d2-5c3c-42c5-b6ac-90b4aafc3478)
-
-Updated 7/14/25
-- #brave-super-referral
-- #brave-rewards-new-rewards-ui
-- #brave-rewards-platform-creator-detection
-- #native-brave-wallet
-- #brave-wallet-zcash
-- #brave-wallet-bitcoin
-- #brave-wallet-cardano
-- #brave-news-peek
-- #brave-news-feed-update
-- #brave-rewards-gemini
-- #brave-ai-chat
-- #brave-ai-first
-- #brave-ai-chat-history
-- #brave-ai-host-specific-distillation
-- #brave-ai-chat-context-menu-rewrite-in-place
-- #brave-ai-chat-page-content-refine
-- #brave-ai-chat-allow-private-ips
-- #brave-ai-chat-open-leo-from-brave-search
-- #brave-ai-chat-web-content-association-default
-- #brave-ai-rewriter
-- #brave-omnibox-tab-switch-by-default
-- #brave-history-more-search-results
-- #brave-ntp-search-widget
-
 ## uBlock filters:
+
 
 ---
 
