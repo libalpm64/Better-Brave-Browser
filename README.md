@@ -24,9 +24,7 @@ Show old homepage (chromes): brave://new-tab-page/
 
 ![image](https://github.com/user-attachments/assets/15763528-b20b-4ba1-aa3e-5fd0e99c1106)
 
-### Now this in the menu search each of the following in the flags bar and disable them:
-
-Flags list (**Disable** them):
+### Flags list (**Disable** them):
 
 Updated 1/06/26
 - #brave-rewards-allow-self-custody-providers
@@ -43,14 +41,14 @@ Updated 1/06/26
 - #brave-sync-default-passwords
 - #brave-news-feed-update
 - #brave-news-peek
-- #brave-ai-host-specific-distillation
+-#brave-ai-host-specific-distillation
 
 
-## Recommended flags to ** Enable **
-#containers
-#enable-quic
-#enable-isolated-web-apps
-#strict-origin-isolation (experimental, may cause issues)
+## Recommended flags to Enable
+- #containers
+- #enable-quic
+- #enable-isolated-web-apps
+- #strict-origin-isolation (experimental, may cause issues)
 
 ## Windows Only
 If you're using Windows, you can achieve even better results than the ones obtained by applying the section [Brave Flags](#brave-flags).
