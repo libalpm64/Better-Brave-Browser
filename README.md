@@ -26,34 +26,31 @@ Show old homepage (chromes): brave://new-tab-page/
 
 ### Now this in the menu search each of the following in the flags bar and disable them:
 
-Flags list (Disable them):
-
-![image](https://github.com/user-attachments/assets/d39d10d2-5c3c-42c5-b6ac-90b4aafc3478)
+Flags list (**Disable** them):
 
 Updated 1/06/26
-- #brave-super-referral
-- #brave-rewards-new-rewards-ui
+- #brave-rewards-allow-self-custody-providers
 - #brave-rewards-platform-creator-detection
-- #native-brave-wallet
-- #brave-wallet-zcash
-- #brave-wallet-bitcoin
-- #brave-wallet-cardano
-- #brave-news-peek
-- #brave-news-feed-update
 - #brave-rewards-gemini
 - #brave-ai-chat
-- #brave-ai-first
 - #brave-ai-chat-history
-- #brave-ai-host-specific-distillation
 - #brave-ai-chat-context-menu-rewrite-in-place
-- #brave-ai-chat-page-content-refine
-- #brave-ai-chat-allow-private-ips
 - #brave-ai-chat-open-leo-from-brave-search
 - #brave-ai-chat-web-content-association-default
-- #brave-ai-rewriter
-- #brave-omnibox-tab-switch-by-default
-- #brave-history-more-search-results
-- #brave-ntp-search-widget
+- #brave-ads-allowed-to-fallback-to-custom-push-notification-ads
+- #brave-ntp-refresh-enabled
+- #native-brave-wallet
+- #brave-sync-default-passwords
+- #brave-news-feed-update
+- #brave-news-peek
+-#brave-ai-host-specific-distillation
+
+
+## Recommended flags to ** Enable **
+#containers
+#enable-quic
+#enable-isolated-web-apps
+#strict-origin-isolation (experimental, may cause issues)
 
 ## Windows Only
 If you're using Windows, you can achieve even better results than the ones obtained by applying the section [Brave Flags](#brave-flags).
